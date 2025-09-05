@@ -26,7 +26,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
--
+- I first thing I do is to read the Readme file provided.
+- I go to style-guide. Then created a css/style.css
+- Get all the styles from style-guid.
+- Go to index.html and start coding the challenge.
+- Style the challenge as responsive for desktop and mobile view.
 
 ### Built with
 
